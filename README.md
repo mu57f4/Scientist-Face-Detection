@@ -8,7 +8,7 @@ In this project, we classify scientists faces, classification restricted to only
 ## Dataset:
 This dataset collected by scraping google for images using chrome extension `Fatkun`.
 
-Data was cleaned by detecing faces and eyes in the image and extract only that region
+Data was cleaned by detecing faces and eyes in the image using `OpenCV` Haar Cascade and extract only that region
 
 ![](cleaning_snapshot.png)
 
