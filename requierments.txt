@@ -1,7 +1,0 @@
-numpy
-opencv-python
-seaborn
-scikit-learn
-streamlit
-joblib
-json
