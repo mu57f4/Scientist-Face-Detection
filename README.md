@@ -6,7 +6,7 @@ In this project, we classify scientists faces, classification restricted to only
 4. Marie Curie
 
 ## Dataset:
-This dataset collected by scrape google for images using chrome extension `Fatkun`.
+This dataset collected by scraping google for images using chrome extension `Fatkun`.
 
 Data was cleaned by detecing faces and eyes in the image and extract only that region
 
@@ -18,7 +18,7 @@ the `application` folder contains the code for streamlit application.
 
 First
 ```
-pip instal -r requirments.txt
+pip install -r requirments.txt
 ```
 
 Then go to `application` folder and run
