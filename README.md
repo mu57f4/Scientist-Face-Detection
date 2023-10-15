@@ -12,6 +12,7 @@ Data was cleaned by detecing faces and eyes in the image and extract only that r
 
 ![](cleaning_snapshot.png)
 
+Then, I did some manul cleaning to remove unwanted, mislabeled or blurry images, the clean data was stored in `dataset/cropped` folder.
 
 ## Application:
 the `application` folder contains the code for streamlit application.
