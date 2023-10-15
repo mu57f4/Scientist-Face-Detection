@@ -2,4 +2,6 @@ numpy
 opencv-python
 seaborn
 scikit-learn
-TensorFlow1
+streamlit
+joblib
+json
