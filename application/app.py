@@ -1,5 +1,4 @@
 import streamlit as st
-import cv2
 from utils import read_image, preprocess_image, predict
 
 st.title('Scientists Face Detection')
