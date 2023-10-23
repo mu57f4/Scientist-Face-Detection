@@ -15,14 +15,14 @@ Data was cleaned by detecing faces and eyes in the image using `OpenCV` Haar Cas
 Then, I did some manul cleaning to remove unwanted, mislabeled or blurry images, the clean data was stored in `dataset/cropped` folder.
 
 ## Application:
-the `application` folder contains the code for streamlit application.
+I built a streamlit web app, the code in `application` folder.
 
-First
+to run the app, navigate to `application` folder and execute these commands:
+
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
-Then go to `application` folder and run
 ```
 streamlit run app.py
 ```
